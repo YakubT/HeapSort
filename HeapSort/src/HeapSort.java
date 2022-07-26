@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class HeapSort {
     private static void swapInArray(int[] arr,int i,int j){
